@@ -63,3 +63,6 @@ Docker: In progress
 
 ### Кривая Precision-Recall:
 ![PR-Curve](./samples/PR_curve.png)
+
+### Общий пайплайн:
+![General-pipeline](./samples/pipeline321.jpg)
